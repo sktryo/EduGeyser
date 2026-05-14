@@ -1,5 +1,6 @@
 # EduGeyser
-# <span style="color:red">THIS IS AN ARCHIVE, THE MAIN PROJECT GOT DCMA'ED</span>.
+> [!CAUTION]
+> THIS IS AN ARCHIVE, THE MAIN PROJECT GOT DCMA'ED
  
 A [Geyser](https://github.com/GeyserMC/Geyser) fork that enables **Minecraft Education Edition** clients to join **Java Edition** servers. Both Education and regular Bedrock players can connect to the same server simultaneously.
 
